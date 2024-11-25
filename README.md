@@ -40,13 +40,13 @@ python orthoani_CLI.py <input_path_reference> <input_path_query> <output_folder>
 
 Example Command:
 ```
-python orthoani_CLI.py /dir/fasta_reference/ /dir/fasta_query/ /dir/orthoani_output orthoani_results.txt
+python orthoani_CLI.py dir/fasta_reference/ dir/fasta_query/ dir/orthoani_output orthoani_results.txt
 ```
 
 Example Input Directories:
 <input_path_reference>:
 ```
-ls /dir/fasta_reference
+ls dir/fasta_reference
 NC_029066.1.fasta
 NC_002484.2.fasta
 NC_030929.1.fasta
@@ -54,7 +54,7 @@ NC_030929.1.fasta
 
 <input_path_query>
 ```
-ls /dir/fasta_query
+ls dir/fasta_query
 vContig1
 ```
 
