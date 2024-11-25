@@ -18,7 +18,7 @@ This Python script uses the OrthoANI CLI tool. To install it in your environment
 ```
 pip install orthoani
 ```
-For more details, refer to the (OrthoANI CLI documentation)[https://pypi.org/project/orthoani/].
+For more details, refer to the [OrthoANI CLI documentation](https://pypi.org/project/orthoani/).
 
 ---
 
