@@ -26,7 +26,7 @@ For more details, refer to the [OrthoANI CLI documentation](https://pypi.org/pro
 
 Download the script from [here](https://github.com/agudeloromero/pairwise_orthoani/blob/main/script/orthoani_CLI.py) and grant execuation permissions:
 ```
-chmod +x download_ncbi_fasta.py
+chmod +x orthoani_CLI.py
 ```
 
 ---
