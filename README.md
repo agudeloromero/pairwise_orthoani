@@ -2,9 +2,7 @@
 
 This is a Python script that calculates the Average Nucleotide Identity by Orthology (OrthoANI) (Lee et al., 2016).
 
-If you need to download FASTA files from NCBI, you can retrieve them using the GenBank ID reference with this [script](https://github.com/agudeloromero/Download_fasta_NCBI/blob/main/script/download_ncbi_fasta.py). Detailed instructions are available in the [Download_fasta_NCBI](https://github.com/agudeloromero/Download_fasta_NCBI)
-
-https://github.com/agudeloromero/Download_fasta_NCBI
+If you need to download FASTA files from NCBI, you can retrieve them using the GenBank ID reference with this [script](https://github.com/agudeloromero/Download_fasta_NCBI/blob/main/script/download_ncbi_fasta.py). Detailed instructions are available in the [Download_fasta_NCBI](https://github.com/agudeloromero/Download_fasta_NCBI).
 
 **Reference**
 
