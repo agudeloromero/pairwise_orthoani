@@ -7,11 +7,13 @@ If you need to download FASTA files from NCBI, you can retrieve them using the G
 https://github.com/agudeloromero/Download_fasta_NCBI
 
 **Reference**
+
 Imchang Lee, Yeong Ouk Kim, Sang-Cheol Park and Jongsik Chun. OrthoANI: An improved algorithm and software for calculating average nucleotide identity (2016). International Journal of Systematic and Evolutionary Microbiology. doi:10.1099/ijsem.0.000760. PMID:26585518.
 
 ---
 
 **Requirements**
+
 This Python script uses the OrthoANI CLI tool. To install it in your environment, run: 
 ```
 pip install orthoani
@@ -30,6 +32,7 @@ chmod +x download_ncbi_fasta.py
 ---
 
 **Usage Example**
+
 Run the script with:
 ```
 python orthoani_CLI.py <input_path_reference> <input_path_query> <output_folder> [output_file]
@@ -58,6 +61,7 @@ vContig1
 ---
 
 **Output:**
+
 The results will be saved in the specified output folder (e.g., orthoani_output) as a tab-delimited text file with three columns: reference, query, and ANI percentage.
 
 Example Output:
